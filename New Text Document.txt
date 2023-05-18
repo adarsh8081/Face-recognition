@@ -1,0 +1,7 @@
+public class main{
+	public static void main (string[] args){
+		string name = new string (orignal: :"Adarsh");
+		System.out.println(name.indexof('m'));
+	}
+}
+}

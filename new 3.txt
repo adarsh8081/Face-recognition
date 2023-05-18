@@ -1,0 +1,3 @@
+WAQ to display all the emp workings as programer
+WAQ to display emp name , corrosponding to dept name . 
+WAQ to display emp name , location of every emp who is 
